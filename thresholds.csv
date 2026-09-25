@@ -1,0 +1,4 @@
+model,threshold,label
+y_gt_0,0,Severity tier > 0
+y_gt_1,1,Severity tier > 1
+y_gt_2,2,Severity tier > 2
